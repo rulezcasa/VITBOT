@@ -37,8 +37,7 @@ Llama, ensured that queries were interpreted correctly, and the responses were b
 and contextually appropriate.
 
 ### Challenges and Limitations
-While the system performed well overall, there were some challenges in ensuring the chat-
-bot’s responses were fully accurate in handling ambiguous queries. For certain complex or
+While the system performed well overall, there were some challenges in ensuring the chatbot’s responses were fully accurate in handling ambiguous queries. For certain complex or
 highly specific inquiries, the chatbot’s responses were less precise. Additionally, the model’s
 performance could be further enhanced by integrating more structured data and expanding its
 knowledge base. Further, experimentations with temperature, top p values could yield more
