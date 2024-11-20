@@ -23,7 +23,10 @@ The dataset comprises of question - answer paids collected by web scraping and a
 
 ## Results
 
-![WhatsApp Image 2024-11-20 at 21 56 36](https://github.com/user-attachments/assets/f5f8e194-267e-4c0c-9e8a-a7d8a7305717)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5f8e194-267e-4c0c-9e8a-a7d8a7305717" width="400"/>
+</p>
+
 
 ### Model Accuracy and Response Quality
 The Llama model, after being fine-tuned with the data from the university’s website, showed
