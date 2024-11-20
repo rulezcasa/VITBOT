@@ -23,6 +23,8 @@ The dataset comprises of question - answer paids collected by web scraping and a
 
 ## Results
 
+![WhatsApp Image 2024-11-20 at 21 56 36](https://github.com/user-attachments/assets/f5f8e194-267e-4c0c-9e8a-a7d8a7305717)
+
 ### Model Accuracy and Response Quality
 The Llama model, after being fine-tuned with the data from the university’s website, showed
 considerable accuracy in understanding and responding to user queries. The integration of
@@ -42,7 +44,7 @@ precise results without creating
 
 ## Appendix
 
-**Funding:** H. Thangaraj N. Natesan. K. Agarwal  A. Singh
+**Funding:** H. Thangaraj, N. Natesan, K. Agarwal, A. Singh
 contributed to this work while undertaking a research collaboration with the Department of Computer Science, Vellore Institute of Technology under Professor Nithya Darisini PS.
 
 **Data Access Statement:** This study utilizes publicly available data scraped from VIT Chennai's website, which has been pre-processed by the authors for fine-tuning large language models (LLMs). If this pre-processed data is used in other work, please provide appropriate citation to this codebase.
