@@ -42,7 +42,7 @@ precise results without creating
 
 ## Appendix
 
-**Funding:** H. Thangaraj V. Varun J. Eshaan V. Kanishka and K . Diya
+**Funding:** H. Thangaraj N. Natesan. K. Agarwal V. A. Singh
 contributed to this work while undertaking a research collaboration with the Department of Computer Science, Vellore Institute of Technology under Professor Nithya Darisini PS.
 
 **Data Access Statement:** This study utilizes publicly available data scraped from VIT Chennai's website, which has been pre-processed by the authors for fine-tuning large language models (LLMs). If this pre-processed data is used in other work, please provide appropriate citation to this codebase.
