@@ -5,6 +5,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
 ## Overview
 This project focuses on building a chatbot for VIT Chennai to automate university-related inquiries and make information more accessible. The chatbot will act as a one-stop solution for answering questions about programs, fees, application deadlines, and more, saving users from having to search through the university website. It’s available 24/7, offering much faster responses compared to emails or in-person inquiries.
